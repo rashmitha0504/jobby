@@ -1,7 +1,6 @@
 In this project, I have developed the Jobby App, an application that offers a user-friendly platform for job seekers. Users can log in and access a comprehensive list of job opportunities with various features, including search functionality by job title and filtering options based on salary range and employment type.
 
-Link: https://naukariclone.netlify.app/login
-
+Link: https://yx.ccbp.tech/login
 The key components and functionalities of this project include:
 
 User Interface: I created distinct pages for Login, Home, Jobs, and Job Item Details using React components. These components leverage React's capabilities for handling props, state management, event handling, and form inputs.
